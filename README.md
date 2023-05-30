@@ -1,6 +1,4 @@
 # Detecting-Parkinson-s-Disease-using-XGBoost
-This Python Machine learning project is intended to build a model using which we can accurately detect the presence of Parkinson’s disease in one’s body.
-# Detection Of Parkinson Disease Dataset
 ### Description :
 This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the
 table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column). The main 
