@@ -6,7 +6,7 @@ aim of the data is to discriminate healthy people from those with PD, according 
 We will use Jupyter Notebook for the training data and buiding our model using XGBClassifier. 
 
 #### Google Colab Notebook
-  - For Colab Notebook [click here](https://colab.research.google.com/drive/1qEi6pUQ1Jk-v8VNaPKuuQu-GPw3J4Y_R?usp=sharing)
+  - For Colab Notebook [click here](https://colab.research.google.com/drive/1X-frWxTot5Aaqp_mBaVnXNH2gN5UAzxa?usp=sharing)
 
 ### Prerequisites :
   ###### Required 
